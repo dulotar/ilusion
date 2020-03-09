@@ -10,7 +10,7 @@
 
 [TRABAJO 5](https://dulotar.github.io/trabajo-5-mondrian/)
 
-[ANIMAL](https://dulotar.github.io/Animal/)
+[ANIMAL](https://dulotar.github.io/animales/)
 
 [LAPIZ](https://dulotar.github.io/Lapiz/)
 
