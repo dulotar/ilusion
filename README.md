@@ -9,3 +9,9 @@
 [TRABAJO 4](https://dulotar.github.io/trabajo-4/)
 
 [TRABAJO 5](https://dulotar.github.io/trabajo-5-mondrian/)
+
+[ANIMAL](https://dulotar.github.io/Animal/)
+
+[LAPIZ](https://dulotar.github.io/Lapiz/)
+
+[PORFOLIO](https://dulotar.github.io/porfolio/)
